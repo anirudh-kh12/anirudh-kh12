@@ -44,7 +44,7 @@ Accepted for presentation at an academic conference.
 
 ---
 
-*Learning, experimenting, and building one project at a time.*
+*Learning, experimenting, and building.*
 
 <!--
 **anirudh-kh12/anirudh-kh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
