@@ -32,7 +32,7 @@ Accepted for presentation at an academic conference.
 
 ### 🏆 Beyond Academics
 
-- Secured **2nd Prize** in a robot challenge during a five-day STTP on IoT and Smart Project Development.
+- Secured **2nd Prize** in a RC car build challenge during a five-day STTP on IoT and Smart Project Development.
 - Interested in practical engineering, technical research, and collaborative projects.
 
 ### 🎯 Currently Focused On
